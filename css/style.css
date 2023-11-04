@@ -1,0 +1,44 @@
+
+html {
+	background: #FDF6E3;
+
+}
+
+body {
+    margin: 0;
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #002B36;
+}
+
+
+h1,a  {
+	color: #EA4909;
+}
+
+div.row > div {
+	margin-top: 10%;
+}
+
+div.row > div > image {
+	margin-bottom: 10%;
+}
+
+a.nav {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+ul {
+	list-style: none;
+}
